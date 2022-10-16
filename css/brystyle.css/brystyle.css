@@ -1,0 +1,28 @@
+body {
+  position: relative;
+  margin: 0
+}
+.bluebox {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  position: absolute;
+left: 400px;
+top: 400px;
+}
+.redbox {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+
+}
+.yellowbox {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  position: absolute;
+
+}
