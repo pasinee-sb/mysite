@@ -113,12 +113,7 @@ hr {
     float: right;
     Margin-left: 30px;
 }
-.bootstrapimg {
-  width: 25%;
-    float: left;
-    Margin-right: 30px;
-    MArgin-bottom: 30px;
-}
+
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -160,4 +155,16 @@ hr {
   margin-top: 3%;
   font-size: 0.75rem;
   color: black;
+}
+
+.otherskill {
+  margin-top: 5%;
+  text-align: center;
+
+}
+.moreskill {
+  width: 200px;
+  height: 200px;
+  margin: 7px 7px ;
+
 }
